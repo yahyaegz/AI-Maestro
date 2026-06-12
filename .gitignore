@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Backend specific
+backend/generated_midi/
+backend/midi_data/
+backend/processed_data/
+backend/weights/
+*.pth
+*.pt
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local

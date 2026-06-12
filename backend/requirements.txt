@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+music21
+numpy
+requests
+pydantic
+python-multipart
